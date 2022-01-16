@@ -1,5 +1,5 @@
 # EasyOnOff :reminder_ribbon: :ticket:
-* :heavy_check_mark: Script file to allow/deny ALL **outgoing** firewall rules.
+* :heavy_check_mark: Script file to allow/deny **outgoing** firewall traffic.
 * :x: Batch file allows for a "Run as administrator" option, pointing to the script.ps1 needed (allow/deny).
 
 # Instructions ::
