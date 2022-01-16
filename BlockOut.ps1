@@ -1,0 +1,1 @@
+netsh advfirewall set currentprofile firewallpolicy blockinbound,blockoutbound
