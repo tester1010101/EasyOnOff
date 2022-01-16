@@ -18,5 +18,9 @@
 
 ![image](https://user-images.githubusercontent.com/91343617/149645639-a65953eb-6399-48d1-a26b-d71f261e84bd.png)
 
+7) Modify the Allow.bat & Deny.bat to point the batch file (.bat) to your PowerShell (.ps1) script.
+
+![image](https://user-images.githubusercontent.com/91343617/149645907-e231d732-d165-4f62-b17e-6e4f4033ece0.png)
+
 * The "netsh" command needs Administrator access to be run, so here is why I made this little utility. 
 * Can also be customized for inbound rules & others network profiles, don't hesitate to message me if you need help!
